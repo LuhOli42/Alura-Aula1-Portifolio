@@ -2,7 +2,7 @@
 
 ## Pré-visualização
 
-![HTMLPreview](./src/assets/preview.gif)
+![HTMLPreview](./assets/preview.gif)
 
 ## Descrição
 
